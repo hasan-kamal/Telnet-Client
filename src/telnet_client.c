@@ -1,6 +1,7 @@
 /*
 
 @author Hasan Kamal
+This telnet client uses io multiplexing
 
 */
 
